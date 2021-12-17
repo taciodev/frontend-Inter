@@ -1,24 +1,6 @@
 <h1 align="center">
-   --- APLICAÇÃO COMPLETA BACKEND EM NODE E FRONTEND EM REACT ---
+   --- Banco Inter ---
 </h1>
-
-<p align="center">
-  <img alt="Repository size" src="https://img.shields.io/static/v1?label=Last%20commit&message=December&color=yellowgreen&style=for-the-badge&logo=Slack">
-</p>
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="INTER" title="#INTER" src="https://raw.githubusercontent.com/jeandsontb/project-banc-inter/main/frontend-app/screen/ProjetoInter.gif" width="400px">
-</p>
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="INTER" title="#INTER" src="https://raw.githubusercontent.com/jeandsontb/project-banc-inter/main/frontend-app/screen/interfront01.png" width="400px">
-  <img alt="INTER" title="#INTER" src="https://raw.githubusercontent.com/jeandsontb/project-banc-inter/main/frontend-app/screen/interfront.png" width="400px">
-</p>
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="api" title="#api" src="https://raw.githubusercontent.com/jeandsontb/project-banc-inter/main/backend-app/assets/inter00.png" width="400px">
-  <img alt="api" title="#api" src="https://raw.githubusercontent.com/jeandsontb/project-banc-inter/main/backend-app/assets/inter01.png" width="400px">
-</p>
 
 ## 💻 Sobre o Projeto
 
@@ -60,8 +42,6 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 - [Crypto-JS][cryptojs]
 - [express-async-erros][expresserrors]
 - [Vscode][vscode]
-
-Feito por Jeandson Tenorio 👋🏽 [Contato!](https://www.linkedin.com/in/jeandson/)
 
 [react]: https://pt-br.reactjs.org/
 [styled]: https://styled-components.com/
