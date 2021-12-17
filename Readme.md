@@ -2,11 +2,11 @@
    --- Banco Inter ---
 </h1>
 
-## 💻 Sobre o Projeto
+### 💻 Sobre o Projeto
 
 Essa aplicação foi realizada no bootcamp ofertado pelo banco Inter junto com a plataforma Digital Inovation, com ela é possível cadastrar usuários, realizar o login, assim como também fazer transações de valores, transferências via chave pix gerada pela API. Postgres é o banco de dados utilizado para esse projeto. E toda a interface visual foi desenvolvida em React e Styled-Components abordando boas práticas de programação.
 
-## 💡 Informações de como executar o projeto
+### 💡 Informações de como executar o projeto
 
 ```bash
 
@@ -26,7 +26,7 @@ Essa aplicação foi realizada no bootcamp ofertado pelo banco Inter junto com a
 
 ```
 
-## 🛠 Tecnologias
+### 🛠 Tecnologias
 
 As seguintes ferramentas estão sendo usadas na construção do projeto:
 
